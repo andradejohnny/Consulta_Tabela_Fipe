@@ -75,7 +75,7 @@ Insira uma das opções para consultar:
 1 - Moto
 2 - Carro
 3 - Caminhão
-> 1
+> moto
 
 [Exibição das marcas de motos]
 
