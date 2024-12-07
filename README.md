@@ -95,9 +95,6 @@ Digite o código do modelo do seu veículo:
 [Exibição dos valores por ano]
 ```
 
-## 📋 Dependências
-
-
 ## 📋 **Dependências**
 
 1. Ter o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado.
